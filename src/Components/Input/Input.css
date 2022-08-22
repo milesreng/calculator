@@ -1,0 +1,10 @@
+.input {
+    width: 100%;
+    background-color: #EAFFFD;
+    padding: 1.5rem 1.5rem 1.5rem 0;
+    color: #183642;
+    text-align: right;
+    font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    border: 1px solid #183642;
+}

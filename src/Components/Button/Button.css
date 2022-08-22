@@ -1,0 +1,21 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 16%;
+    margin: 1rem 0;
+    padding: 1.5rem;
+    background-color: #6D8EA0;
+    color: #EAFFFD;
+    font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    border: 1px solid #183642;
+}
+
+.button-container:hover {
+    cursor: pointer;
+}
+
+.operator {
+    background-color: #183642;
+}

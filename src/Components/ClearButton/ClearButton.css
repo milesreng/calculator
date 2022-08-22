@@ -1,0 +1,14 @@
+.clear-button-container {
+    width: 100%;
+    background-color: #EAFFFD;
+    padding: 1.5rem 0;
+    color: #183642;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    border: 1px solid #183642;
+}
+
+.clear-button-container:hover {
+    cursor: pointer;
+}
